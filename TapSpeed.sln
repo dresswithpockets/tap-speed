@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapSpeed.CSharp", "TapSpeed.CSharp.csproj", "{2A56056E-DE90-00BE-1333-B5E6CCAA1ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapSpeed.CSharp.Editor", "TapSpeed.CSharp.Editor.csproj", "{2FE6B228-F323-67F2-8ED5-CD678C6E7351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A56056E-DE90-00BE-1333-B5E6CCAA1ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A56056E-DE90-00BE-1333-B5E6CCAA1ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A56056E-DE90-00BE-1333-B5E6CCAA1ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A56056E-DE90-00BE-1333-B5E6CCAA1ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE6B228-F323-67F2-8ED5-CD678C6E7351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE6B228-F323-67F2-8ED5-CD678C6E7351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE6B228-F323-67F2-8ED5-CD678C6E7351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE6B228-F323-67F2-8ED5-CD678C6E7351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
